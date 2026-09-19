@@ -1,3 +1,4 @@
+workflow_dispatch:
 name: GitHub Release Build
 
 on:
